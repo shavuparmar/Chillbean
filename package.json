@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@capacitor/android": "^7.2.0",
+    "@capacitor/cli": "^7.2.0",
+    "@capacitor/core": "^7.2.0",
+    "@capacitor/ios": "^7.2.0",
+    "androidjs": "^2.0.6",
+    "react-native": "^0.79.2"
+  }
+}
